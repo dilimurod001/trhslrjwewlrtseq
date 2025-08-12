@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(85, 13, 201);
+}
+
+
+
+
+.child{
+    background-color: yellow;
+    width: 1200px;
+    height: 614px;  
+    margin: 5% auto;
+    border-radius: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 81px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Box{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(54, 1, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+
+
+}
+
+.box1{
+    background-color: red;
+    width: 133px;
+    height: 78px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
